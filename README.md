@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Maximiliano Francesconi 👋
+### Hi, My name is Maximiliano 👋
 
 <!--
 **maximilianofni/maximilianofni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
