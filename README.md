@@ -1,4 +1,4 @@
-### Hi, My name is Maximiliano 👋
+### Hi, My name is MAXIMILIANO 👋
 - I like to learn about new technologies.
 - I am currently learning about development on ARDUINO.
 
