@@ -1,6 +1,6 @@
 ### Hi, My name is Maximiliano 👋
-### I’m currently working in Danaide
-
+- I like to learn about new technologies.
+- I am currently learning about development on arduino.
 <!--
 **maximilianofni/maximilianofni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
