@@ -1,6 +1,8 @@
 ### Hi, My name is Maximiliano 👋
 - I like to learn about new technologies.
-- I am currently learning about development on arduino.
+- I am currently learning about development on ARDUINO.
+
+### TECNOLOGIAS: 
 
 <!--
 **maximilianofni/maximilianofni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
