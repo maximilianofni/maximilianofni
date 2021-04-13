@@ -2,7 +2,8 @@
 - I like to learn about new technologies.
 - I am currently learning about development on ARDUINO.
 
-### TECNOLOGIAS: 
+### SKILLS
+
 
 <!--
 **maximilianofni/maximilianofni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
