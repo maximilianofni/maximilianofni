@@ -2,7 +2,6 @@
 - I like to learn about new technologies.
 - I am currently learning about development on arduino.
 
-C:\Users\maxif\Desktop\prueba222\file_type_html_icon_130541.ico
 <!--
 **maximilianofni/maximilianofni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
