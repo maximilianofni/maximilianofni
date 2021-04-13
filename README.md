@@ -3,7 +3,7 @@
 - I am currently learning about development on ARDUINO.
 
 ### SKILLS
-
+![file_type_html_icon_130541 (2)](https://user-images.githubusercontent.com/17895688/114609269-fe35a500-9c74-11eb-82fc-9e66104de4b7.png) <!--,--> ![file_type_css_icon_130661](https://user-images.githubusercontent.com/17895688/114609401-258c7200-9c75-11eb-84b8-99353ca28ccd.png)<!--,-->![file_type_js_official_icon_130509](https://user-images.githubusercontent.com/17895688/114609514-45bc3100-9c75-11eb-8920-ddbbced65943.png) <!--,-->  ![file_type_php_icon_130266](https://user-images.githubusercontent.com/17895688/114612252-46a29200-9c78-11eb-862f-1f55b8838f0d.png)  <!--,-->![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/17895688/114612718-d9dbc780-9c78-11eb-8841-75e1fb888899.png) <!--,--> ![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/17895688/114612586-b31d9100-9c78-11eb-9ad5-9f8d0c8a5f10.png)  <!--,--> ![csharp_original_logo_icon_146578](https://user-images.githubusercontent.com/17895688/114612834-fd9f0d80-9c78-11eb-9562-44df7235a1d3.png) <!--,-->![file_type_kotlin_icon_130487](https://user-images.githubusercontent.com/17895688/114613354-96358d80-9c79-11eb-9f3c-a758644e5ed7.png)<!--,-->![python_18894](https://user-images.githubusercontent.com/17895688/114613397-a9485d80-9c79-11eb-8751-618592fcfc50.png)
 
 <!--
 **maximilianofni/maximilianofni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
