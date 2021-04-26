@@ -1,5 +1,5 @@
 ### Hi, My name is MAXIMILIANO 👋
-- I like to learn about new technologies.
+- I like to learn about new technologies web .
 - I am currently learning about development on ARDUINO.
 
 ### SKILLS
