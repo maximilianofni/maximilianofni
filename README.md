@@ -1,4 +1,5 @@
 ### Hi, My name is MAXIMILIANO 👋
+- I like to practice and watch sports. I like judo, running, swimming, going to the gym, playing soccer.
 - I like to learn about new technologies web .
 - I am currently learning about development on ARDUINO.
 
