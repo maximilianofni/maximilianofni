@@ -7,7 +7,7 @@
 - Currently learning and developing a mobile project and another with ARDUINO.
 _____________________________________________________________________________________________________________________________________________
 ### Hola, Me llamo Maximiliano
-- Actualmente graduado de lic. en Sistemas 🎓.
+- Licenciado en Sistemas 🎓.
 - Tester 🕵️‍♂️🔍 , Desarrollador web 💻🖥️  y  Desarrollador mobile 📱.
 - Autodicta . Me gusta aprender nuevas tecnologicas. 
 - Disfruto practicar deportes, como  Judo 🥋 , correr 🏃‍♂️ , nadar 🏊‍♂️, gym 💪🏋️‍♂️, futbol ⚽️ . mirar series y peliculas 🎬 y los videojuegos 🎮 .
