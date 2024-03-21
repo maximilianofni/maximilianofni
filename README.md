@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - Licenciado en Sistemas 🎓.
 - Tester 🕵️‍♂️🔍 , Desarrollador web 💻🖥️  y  Desarrollador mobile 📱.
 - Autodicta . Me gusta aprender nuevas tecnologicas. 
-- Disfruto practicar deportes, como  Judo 🥋 , correr 🏃‍♂️ , nadar 🏊‍♂️, gym 💪🏋️‍♂️, futbol ⚽️ . mirar series y peliculas 🎬 y los videojuegos 🎮 .
+- Disfruto practicar deportes, como  Judo 🥋 , correr 🏃‍♂️ , nadar 🏊‍♂️, gym 💪🏋️‍♂️, futbol ⚽️ . mirar series y peliculas 🎬 y jugar videojuegos 🎮 .
 - Actualmente estoy aprendiendo y desarrollando un proyecto móvil y otro con Arduino.
 
 _____________________________________________________________________________________________________________________________________________
